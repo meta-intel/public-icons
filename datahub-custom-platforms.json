@@ -1,0 +1,138 @@
+[
+  {
+    "urn": "urn:li:dataPlatform:python",
+    "dataPlatformKey": {
+      "value": {
+        "platformName": "python"
+      }
+    },
+    "dataPlatformInfo": {
+      "value": {
+        "name": "python",
+        "datasetNameDelimiter": ".",
+        "type": "OTHERS",
+        "logoUrl": "https://raw.githubusercontent.com/meta-intel/public-icons/master/Python-logo-notext.svg",
+        "displayName": "Python"
+      }
+    }
+  },
+  {
+    "urn": "urn:li:dataPlatform:cobol",
+    "dataPlatformKey": {
+      "value": {
+        "platformName": "cobol"
+      }
+    },
+    "dataPlatformInfo": {
+      "value": {
+        "name": "cobol",
+        "datasetNameDelimiter": ".",
+        "type": "OTHERS",
+        "logoUrl": "https://raw.githubusercontent.com/meta-intel/public-icons/master/cobol-only-icon-small.png",
+        "displayName": "Cobol"
+      }
+    }
+  },
+  {
+    "urn": "urn:li:dataPlatform:java",
+    "dataPlatformKey": {
+      "value": {
+        "platformName": "java"
+      }
+    },
+    "dataPlatformInfo": {
+      "value": {
+        "name": "java",
+        "datasetNameDelimiter": ".",
+        "type": "OTHERS",
+        "logoUrl": "https://raw.githubusercontent.com/meta-intel/public-icons/master/java-svgrepo-com.svg",
+        "displayName": "Java"
+      }
+    }
+  },
+  {
+    "urn": "urn:li:dataPlatform:pli",
+    "dataPlatformKey": {
+      "value": {
+        "platformName": "pli"
+      }
+    },
+    "dataPlatformInfo": {
+      "value": {
+        "name": "pli",
+        "datasetNameDelimiter": ".",
+        "type": "OTHERS",
+        "logoUrl": "https://raw.githubusercontent.com/meta-intel/public-icons/master/pli-logo.png",
+        "displayName": "PL/I"
+      }
+    }
+  },
+  {
+    "urn": "urn:li:dataPlatform:seeburger",
+    "dataPlatformKey": {
+      "value": {
+        "platformName": "seeburger"
+      }
+    },
+    "dataPlatformInfo": {
+      "value": {
+        "name": "seeburger",
+        "datasetNameDelimiter": "/",
+        "type": "OTHERS",
+        "logoUrl": "https://raw.githubusercontent.com/meta-intel/public-icons/master/seeburger-logo-scout-small.png",
+        "displayName": "SEEBURGER"
+      }
+    }
+  },
+  {
+    "urn": "urn:li:dataPlatform:csharp",
+    "dataPlatformKey": {
+      "value": {
+        "platformName": "csharp"
+      }
+    },
+    "dataPlatformInfo": {
+      "value": {
+        "name": "csharp",
+        "datasetNameDelimiter": ".",
+        "type": "OTHERS",
+        "logoUrl": "https://raw.githubusercontent.com/meta-intel/public-icons/master/Csharp_Logo.png",
+        "displayName": "C#"
+      }
+    }
+  },
+  {
+    "urn": "urn:li:dataPlatform:javascript",
+    "dataPlatformKey": {
+      "value": {
+        "platformName": "javascript"
+      }
+    },
+    "dataPlatformInfo": {
+      "value": {
+        "name": "javascript",
+        "datasetNameDelimiter": ".",
+        "type": "OTHERS",
+        "logoUrl": "https://raw.githubusercontent.com/meta-intel/public-icons/master/JavaScript-logo.png",
+        "displayName": "JavaScript"
+      }
+    }
+  },
+  {
+    "urn": "urn:li:dataPlatform:typescript",
+    "dataPlatformKey": {
+      "value": {
+        "platformName": "typescript"
+      }
+    },
+    "dataPlatformInfo": {
+      "value": {
+        "name": "typescript",
+        "datasetNameDelimiter": ".",
+        "type": "OTHERS",
+        "logoUrl": "https://raw.githubusercontent.com/meta-intel/public-icons/master/Typescript_logo_2020.svg",
+        "displayName": "TypeScript"
+      }
+    }
+  }
+]

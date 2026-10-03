@@ -1,0 +1,16 @@
+<!-- IBM MQ: our own mark, the letters MQ over a queue of messages leaving it -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <polyline points="9,29 9,8 18.5,21 28,8 28,29"
+            fill="none" stroke="#1f5fa8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="44" cy="18.5" r="10.5"
+          fill="none" stroke="#1f5fa8" stroke-width="3" />
+  <line x1="48" y1="23" x2="55" y2="30"
+        stroke="#1f5fa8" stroke-width="3" stroke-linecap="round" />
+  <rect x="6" y="36" width="52" height="20" rx="4" ry="4"
+        fill="none" stroke="#1f5fa8" stroke-width="3" />
+  <rect x="11" y="41" width="8" height="10" rx="1" fill="#1f5fa8" />
+  <rect x="23" y="41" width="8" height="10" rx="1" fill="#1f5fa8" />
+  <rect x="35" y="41" width="8" height="10" rx="1" fill="#1f5fa8" />
+  <polyline points="47,41 52,46 47,51"
+            fill="none" stroke="#1f5fa8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
